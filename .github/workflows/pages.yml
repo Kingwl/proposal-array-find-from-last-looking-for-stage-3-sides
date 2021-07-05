@@ -25,3 +25,5 @@ jobs:
           author: github-actions[bot]
           # Commit message
           commit_message: Update pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
