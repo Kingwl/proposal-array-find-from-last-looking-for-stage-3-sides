@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slides of [Proposal-array-find-from-last](https://github.com/tc39/proposal-array-find-from-last)
 
-To start the slide show:
+Powered by [slidev](https://github.com/slidevjs/slidev).
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
