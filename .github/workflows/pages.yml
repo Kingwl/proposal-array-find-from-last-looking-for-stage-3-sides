@@ -19,10 +19,6 @@ jobs:
         with:
           # Build directory to deploy
           build_dir: dist
-          # The committer name and email address
-          committer: github-actions[bot]@users.noreply.github.com
-          # The author name and email address
-          author: github-actions[bot]
           # Commit message
           commit_message: Update pages
         env:
